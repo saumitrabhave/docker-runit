@@ -1,4 +1,4 @@
-An image using [runit](http://smarden.org/runit/) for service supervision.
+An image using [runit](http://smarden.org/runit/) for service supervision. 
 
 It can serve as a good base image for other Docker images.
 
